@@ -1,0 +1,84 @@
+{
+  "sneakers": [
+    {
+      "id": 1,
+      "name": "Air Jordan MVP",
+      "imageUrl": "img/jordan-mvp.jpg",
+      "price": 29900
+    },
+    {
+      "id": 2,
+      "name": "Air Jordan Tatum 1",
+      "imageUrl": "img/jordan-tatum1s.jpg",
+      "price": 36800
+    },
+    {
+      "id": 3,
+      "name": "Air Jordan Tatum 2",
+      "imageUrl": "img/jordan-tatum2.jpg",
+      "price": 39100
+    },
+    {
+      "id": 4,
+      "name": "Air Jordan 11 Retro",
+      "imageUrl": "img/jordan11retro.jpg",
+      "price": 43700
+    },
+    {
+      "id": 5,
+      "name": "Air Jordan 38",
+      "imageUrl": "img/jordan38.jpg",
+      "price": 46000
+    },
+    {
+      "id": 6,
+      "name": "Air Jordan 6",
+      "imageUrl": "img/jordan6.jpg",
+      "price": 41400
+    },
+    {
+      "id": 7,
+      "name": "Air Jordan Low",
+      "imageUrl": "img/jordanlow.jpg",
+      "price": 27600
+    },
+    {
+      "id": 8,
+      "name": "Nike Air Force 07 Retro",
+      "imageUrl": "img/force07retro.png",
+      "price": 32500
+    },
+    {
+      "id": 9,
+      "name": "Nike Luka 5",
+      "imageUrl": "img/luka5.png",
+      "price": 38900
+    },
+    {
+      "id": 10,
+      "name": "Nike Pegasus Premium",
+      "imageUrl": "img/pegasuspremium.png",
+      "price": 35200
+    },
+    {
+      "id": 11,
+      "name": "Nike Phantom 6 Low Elite",
+      "imageUrl": "img/phantom6lowelite.png",
+      "price": 44500
+    },
+    {
+      "id": 12,
+      "name": "Nike Tatum 4",
+      "imageUrl": "img/tatum4.png",
+      "price": 42000
+    },
+    {
+      "id": 13,
+      "name": "Nike Vaporfly 4",
+      "imageUrl": "img/vaporfly4.png",
+      "price": 48900
+    }
+  ],
+  "cart": [],
+  "favorites": []
+}
