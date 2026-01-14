@@ -27,6 +27,5 @@ def save_db(data):
 def _next_id(collection):
     if not collection:
         return 1
-    # IDs are integers; ensure max+1
     max_id = max((int(item.get("id", 0)) for item in collection), default=0)
     return max_id + 1

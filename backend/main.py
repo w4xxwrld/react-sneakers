@@ -8,7 +8,6 @@ from utils import load_db, save_db, _next_id
 
 app = FastAPI(title="Miras Sneakers - Local API")
 
-# Allow requests from the React dev server
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:3000"],

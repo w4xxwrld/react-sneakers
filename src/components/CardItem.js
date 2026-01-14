@@ -7,7 +7,6 @@ function CardItem({ id, name, imageUrl, price, onPlus, onAddToFavorite, liked = 
 
     const onClickPlus = (e) => {
         e.stopPropagation();
-        // Open modal instead of directly adding to cart
         if (onCardClick) {
             onCardClick({ id, name, imageUrl, price });
         }
